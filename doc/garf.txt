@@ -1,0 +1,9 @@
+vim-garf.txt Garf in Vim
+vim-garf
+
+Author: Andrei Markin
+Repo: https://github.com/AndreyMarkinPPC/vim-garf
+
+USAGE                                           *garf-vim* *:Gaarf*
+
+:Gaarf               Runs `garf` command over the provided garf_config
